@@ -12,7 +12,7 @@ Sebelum menjalankan dashboard, pastikan Anda telah menginstall:
 1. Clone repository : 
 ```
 git clone https://github.com/lauvira/dashboard_project1.git
-cd dashboard-project1
+cd dashboard_project1
 ```
 2. Install library :
 ```
